@@ -1,0 +1,437 @@
+[
+  {
+    "id": "makrana-marble",
+    "name": "Makrana Marble",
+    "subtitle": "The royal white marble",
+    "category": "Marble",
+    "origin": "Rajasthan",
+    "quarryLocation": "Makrana, Didwana-Kuchaman District, Rajasthan",
+    "image": "/assets/images/stone_makrana.jpg",
+    "description": "World-renowned pure crystalline calcium marble celebrated for its snowy luster and translucent depth. Formed over 1,450 million years ago, it remains cool to the touch and grows more radiant with age.",
+    "color": "Pure White with soft silver and grey calcite veins",
+    "finishAvailable": [
+      "Mirror Polished",
+      "Honed Velvet",
+      "Antique Leather",
+      "Brushed",
+      "Bush Hammered"
+    ],
+    "compressiveStrength": "1,860 kg/cm²",
+    "waterAbsorption": "0.04% (Impermeable)",
+    "hardness": "3.5 Mohs",
+    "density": "2.71 g/cm³",
+    "recommendedUses": [
+      "Luxury Flooring",
+      "Palatial Feature Walls",
+      "Temple Sanctums",
+      "Sculptures",
+      "Bathroom Ensuites"
+    ],
+    "historicalSignificance": "The very stone commissioned by Emperor Shah Jahan in 1632 to build the Taj Mahal. Also chosen by Sir William Emerson for the Victoria Memorial.",
+    "priceTier": "Super Premium",
+    "rating": 5,
+    "tags": [
+      "White Marble",
+      "Taj Mahal Stone",
+      "Heritage",
+      "Ultra Luxury"
+    ]
+  },
+  {
+    "id": "kota-stone",
+    "name": "Kota Stone",
+    "subtitle": "Elegant & durable",
+    "category": "Limestone",
+    "origin": "Kota, Rajasthan",
+    "quarryLocation": "Ramganj Mandi, Kota District, Rajasthan",
+    "image": "/assets/images/stone_kota.jpg",
+    "description": "Naturally fine-grained, non-porous dolomitic limestone quarried from the Hadoti region. Beloved by architects for its supreme durability, natural non-slip properties, and cool earthy greenish-blue undertones.",
+    "color": "Refined Greenish-Grey & Slate Blue",
+    "finishAvailable": [
+      "Honed",
+      "Mirror Polished",
+      "Rough Natural Cleft",
+      "Shot Blasted",
+      "River Washed"
+    ],
+    "compressiveStrength": "2,100 kg/cm²",
+    "waterAbsorption": "0.20%",
+    "hardness": "4.0 Mohs",
+    "density": "2.68 g/cm³",
+    "recommendedUses": [
+      "Heavy Traffic Commercial Flooring",
+      "Garden Pathways",
+      "Staircases",
+      "Corridors",
+      "Swimming Pool Decks"
+    ],
+    "historicalSignificance": "Extensively utilized in public corridors, railway heritage stations, and prestigious institutional campuses across India for over a century.",
+    "priceTier": "Accessible Luxury",
+    "rating": 4.8,
+    "tags": [
+      "Limestone",
+      "Durable",
+      "Non-Slip",
+      "Cooling"
+    ]
+  },
+  {
+    "id": "jaisalmer-yellow",
+    "name": "Jaisalmer Yellow",
+    "subtitle": "Warm golden hues",
+    "category": "Sandstone",
+    "origin": "Jaisalmer, Rajasthan",
+    "quarryLocation": "Jethwai & Mool Sagar, Thar Desert, Rajasthan",
+    "image": "/assets/images/stone_jaisalmer.jpg",
+    "description": "The mystical 'Golden Stone' of the Thar Desert. A dense jurassic fossiliferous limestone and sandstone that glows like liquid gold under sunlight, featuring delicate fossil ammonite swirls.",
+    "color": "Radiant Honey Ochre, Desert Gold & Amber",
+    "finishAvailable": [
+      "Polished",
+      "Honed",
+      "Sawn Cleft",
+      "Sandblasted",
+      "Tumbled"
+    ],
+    "compressiveStrength": "1,450 kg/cm²",
+    "waterAbsorption": "0.85%",
+    "hardness": "3.5 Mohs",
+    "density": "2.52 g/cm³",
+    "recommendedUses": [
+      "Heritage Palaces",
+      "Luxury Cladding",
+      "Carved Jali Screens",
+      "Fireplace Mantels",
+      "Bespoke Sculptures"
+    ],
+    "historicalSignificance": "The entire living Golden Fort (Sonar Qila) of Jaisalmer, founded in 1156 AD, is constructed from this golden stone.",
+    "priceTier": "Premium",
+    "rating": 4.9,
+    "tags": [
+      "Golden Stone",
+      "Desert Sun",
+      "Jali Carving",
+      "Palatial"
+    ]
+  },
+  {
+    "id": "black-galaxy-granite",
+    "name": "Black Galaxy Granite",
+    "subtitle": "Starry elegance",
+    "category": "Granite",
+    "origin": "Karnataka",
+    "quarryLocation": "Chimakurthi, Ongole & Karnataka border zone",
+    "image": "/assets/images/stone_black_galaxy.jpg",
+    "description": "An awe-inspiring deep obsidian black gabbro granite peppered with naturally occurring golden-bronze enstatite spangles that resemble the twinkling night galaxy.",
+    "color": "Pitch Jet Black with Metallic Gold & Copper Flecks",
+    "finishAvailable": [
+      "High Gloss Polished",
+      "Flamed",
+      "Leather Touch",
+      "Lapato",
+      "Honed"
+    ],
+    "compressiveStrength": "2,780 kg/cm²",
+    "waterAbsorption": "0.03%",
+    "hardness": "6.5 - 7.0 Mohs",
+    "density": "2.97 g/cm³",
+    "recommendedUses": [
+      "High-End Kitchen Countertops",
+      "Executive Boardrooms",
+      "Bar Counters",
+      "Grand Lobbies",
+      "Feature Steps"
+    ],
+    "historicalSignificance": "One of India's most exported luxury stones, celebrated by global interior designers in Milan, London, and Tokyo for its celestial sparkle.",
+    "priceTier": "Ultra Premium",
+    "rating": 5,
+    "tags": [
+      "Granite",
+      "Starry Sparkle",
+      "Scratch Proof",
+      "Countertop King"
+    ]
+  },
+  {
+    "id": "indian-green-marble",
+    "name": "Indian Green Marble",
+    "subtitle": "Luxurious & unique",
+    "category": "Marble",
+    "origin": "Rajasthan",
+    "quarryLocation": "Rishabhdeo, Keshariyaji, Udaipur District, Rajasthan",
+    "image": "/assets/images/stone_green_marble.jpg",
+    "description": "Often termed 'Verde Guatemala' or 'Emerald Forest', this deep serpentine marble possesses mesmerizing deep emerald greens interwoven with dark forest veins and lighter crystalline branches.",
+    "color": "Deep Royal Emerald Green with Dark Branching Veins",
+    "finishAvailable": [
+      "Polished",
+      "Honed",
+      "Leather",
+      "Antique Patina"
+    ],
+    "compressiveStrength": "1,720 kg/cm²",
+    "waterAbsorption": "0.15%",
+    "hardness": "4.0 Mohs",
+    "density": "2.83 g/cm³",
+    "recommendedUses": [
+      "Spa Bathrooms",
+      "Bookmatched Accent Walls",
+      "Vanity Tops",
+      "Luxury Table Tops",
+      "Columns"
+    ],
+    "historicalSignificance": "Adorns royal palaces of Mewar, private maharani chambers, and prestigious five-star presidential suites across the globe.",
+    "priceTier": "Premium",
+    "rating": 4.85,
+    "tags": [
+      "Verde Marble",
+      "Emerald Green",
+      "Spa Luxury",
+      "Serpentine"
+    ]
+  },
+  {
+    "id": "rajasthan-sandstone",
+    "name": "Rajasthan Sandstone",
+    "subtitle": "Rustic & timeless",
+    "category": "Sandstone",
+    "origin": "Rajasthan",
+    "quarryLocation": "Dholpur & Karauli, Rajasthan",
+    "image": "/assets/images/stone_rajasthan_sandstone.jpg",
+    "description": "Extracted from the ancient Vindhyan ranges, this natural stone combines thermal insulation, weather resistance, and warm terracotta blush tones that age gracefully with majestic patina.",
+    "color": "Warm Blush Terracotta, Rosy Buff & Earth Ochre",
+    "finishAvailable": [
+      "Hand Chiseled",
+      "Natural Cleft",
+      "Shotblasted",
+      "Sawn Cut",
+      "Tumbled"
+    ],
+    "compressiveStrength": "1,350 kg/cm²",
+    "waterAbsorption": "1.10%",
+    "hardness": "5.5 Mohs",
+    "density": "2.45 g/cm³",
+    "recommendedUses": [
+      "Exterior Facade Cladding",
+      "Fortification Walls",
+      "Garden Pavilions",
+      "Temple Mandapas",
+      "Boundary Pillars"
+    ],
+    "historicalSignificance": "Constructed the formidable Amber Fort, Red Fort of Delhi, and modern marvels like the Akshardham temple complex.",
+    "priceTier": "Accessible Luxury",
+    "rating": 4.8,
+    "tags": [
+      "Sandstone",
+      "Weatherproof",
+      "Terracotta",
+      "Heritage"
+    ]
+  },
+  {
+    "id": "banswara-purple-marble",
+    "name": "Banswara Purple Marble",
+    "subtitle": "Artistic dramatic veining",
+    "category": "Marble",
+    "origin": "Rajasthan",
+    "quarryLocation": "Banswara District, Southern Rajasthan",
+    "image": "/assets/images/stone_banswara_purple.jpg",
+    "description": "A distinctive Indian marble characterized by a creamy porcelain white base canvas overlaid with bold violet, lavender, and wine-colored spider veins.",
+    "color": "Milk White with Dramatic Purple & Lavender Veining",
+    "finishAvailable": [
+      "Mirror Polished",
+      "Honed",
+      "Bookmatched Slabs"
+    ],
+    "compressiveStrength": "1,690 kg/cm²",
+    "waterAbsorption": "0.08%",
+    "hardness": "3.5 Mohs",
+    "density": "2.69 g/cm³",
+    "recommendedUses": [
+      "Boutique Hotel Lobbies",
+      "Powder Rooms",
+      "Artistic Sinks",
+      "Feature Fireplace Walls"
+    ],
+    "historicalSignificance": "Favored by contemporary landscape architects and bespoke villa designers seeking artistic expression akin to Italian Calacatta Viola.",
+    "priceTier": "Ultra Premium",
+    "rating": 4.9,
+    "tags": [
+      "Purple Vein",
+      "Exotic Marble",
+      "Bookmatch"
+    ]
+  },
+  {
+    "id": "dholpur-beige-sandstone",
+    "name": "Dholpur Beige Sandstone",
+    "subtitle": "Imperial sovereign stone",
+    "category": "Sandstone",
+    "origin": "Dholpur, Rajasthan",
+    "quarryLocation": "Bari & Sarmathura, Dholpur, Rajasthan",
+    "image": "/assets/images/stone_dholpur_beige.jpg",
+    "description": "The revered stone of state. Uniform cream-buff sandstone with outstanding load-bearing capacity and immaculate carving capability.",
+    "color": "Soft Buff Cream & Warm Biscuit Tone",
+    "finishAvailable": [
+      "Honed",
+      "Bush Hammered",
+      "Fine Chiseled",
+      "Flamed"
+    ],
+    "compressiveStrength": "1,520 kg/cm²",
+    "waterAbsorption": "0.95%",
+    "hardness": "5.0 Mohs",
+    "density": "2.48 g/cm³",
+    "recommendedUses": [
+      "Government & Civic Buildings",
+      "Embassies",
+      "Colonloaded Porticos",
+      "Jali Screens"
+    ],
+    "historicalSignificance": "Famously chosen by Sir Edwin Lutyens and Herbert Baker for the Parliament House and Rashtrapati Bhavan in New Delhi.",
+    "priceTier": "Premium",
+    "rating": 4.95,
+    "tags": [
+      "Lutyens Delhi",
+      "Civic Monument",
+      "Sovereign Stone"
+    ]
+  },
+  {
+    "id": "ambaji-white-marble",
+    "name": "Ambaji White Marble",
+    "subtitle": "Sacred crystalline purity",
+    "category": "Marble",
+    "origin": "Gujarat / Rajasthan Border",
+    "quarryLocation": "Ambaji, Aravalli Mountain Range",
+    "image": "/assets/images/stone_makrana.jpg",
+    "description": "Renowned for its fine grain, translucent milky crystal matrix, and immaculate white surface with light grey clouding.",
+    "color": "Pristine Crystalline White with Soft Feather Clouding",
+    "finishAvailable": [
+      "High Polish",
+      "Honed",
+      "Chiseled Relief",
+      "Waterjet"
+    ],
+    "compressiveStrength": "1,810 kg/cm²",
+    "waterAbsorption": "0.06%",
+    "hardness": "3.5 Mohs",
+    "density": "2.70 g/cm³",
+    "recommendedUses": [
+      "Temple Shrines & Mandapas",
+      "Grand Staircases",
+      "Courtyard Flooring",
+      "Carved Capitals"
+    ],
+    "historicalSignificance": "The legendary stone of the 11th-century Dilwara Temples at Mount Abu, known for translucent stone carving so thin that light permeates through.",
+    "priceTier": "Super Premium",
+    "rating": 4.95,
+    "tags": [
+      "Temple Marble",
+      "Dilwara",
+      "White Marble"
+    ]
+  },
+  {
+    "id": "rainforest-brown-marble",
+    "name": "Rainforest Brown Serpentine",
+    "subtitle": "Bidasar nature's tapestry",
+    "category": "Marble",
+    "origin": "Bidasar, Rajasthan",
+    "quarryLocation": "Bidasar, Churu District, Rajasthan",
+    "image": "/assets/images/stone_rajasthan_sandstone.jpg",
+    "description": "An exotic natural stone with a rich cocoa and coffee brown background crisscrossed by intricate dark root-like veins resembling an aerial view of an ancient rainforest.",
+    "color": "Deep Cocoa Brown with Golden Russet and Crimson Branch Veins",
+    "finishAvailable": [
+      "Polished High Gloss",
+      "Leathered Satin",
+      "Antique Honed"
+    ],
+    "compressiveStrength": "1,640 kg/cm²",
+    "waterAbsorption": "0.18%",
+    "hardness": "4.0 Mohs",
+    "density": "2.65 g/cm³",
+    "recommendedUses": [
+      "Dramatic Powder Room Vanities",
+      "Living Room Wall Cladding",
+      "Bar Counters",
+      "Conference Tables"
+    ],
+    "historicalSignificance": "A geological wonder unique to India, highly sought after by luxury European architects for high-contrast bespoke feature walls.",
+    "priceTier": "Ultra Premium",
+    "rating": 4.88,
+    "tags": [
+      "Rainforest",
+      "Exotic Serpentine",
+      "Bidasar"
+    ]
+  },
+  {
+    "id": "dholpur-red-sandstone",
+    "name": "Dholpur Red Sandstone",
+    "subtitle": "Imperial fortress stone",
+    "category": "Sandstone",
+    "origin": "Rajasthan",
+    "quarryLocation": "Dholpur District, Eastern Rajasthan",
+    "image": "/assets/images/stone_rajasthan_sandstone.jpg",
+    "description": "Deep imperial ruby and terracotta sandstone of unmatched strength, weather endurance, and acoustic insulation.",
+    "color": "Rich Imperial Terracotta & Rust Crimson",
+    "finishAvailable": [
+      "Natural Cleft",
+      "Chiseled",
+      "Shot Blasted",
+      "Honed"
+    ],
+    "compressiveStrength": "1,480 kg/cm²",
+    "waterAbsorption": "0.80%",
+    "hardness": "5.5 Mohs",
+    "density": "2.47 g/cm³",
+    "recommendedUses": [
+      "Fortress Gateways",
+      "External Cladding",
+      "Heritage Villa Porticos",
+      "Garden Pavilions"
+    ],
+    "historicalSignificance": "The sovereign stone of Delhi's Red Fort, Fatehpur Sikri, and Agra Fort, built by Mughal Emperor Akbar the Great.",
+    "priceTier": "Accessible Luxury",
+    "rating": 4.92,
+    "tags": [
+      "Red Sandstone",
+      "Red Fort",
+      "Imperial Stone"
+    ]
+  },
+  {
+    "id": "tan-brown-granite",
+    "name": "Tan Brown Granite",
+    "subtitle": "Chestnut igneous luxury",
+    "category": "Granite",
+    "origin": "Telangana / Karnataka",
+    "quarryLocation": "Karimnagar, Deccan Plateau",
+    "image": "/assets/images/stone_black_galaxy.jpg",
+    "description": "A dark rich igneous granite presenting a predominantly brown, black, and burnt-amber crystal matrix with deep metallic flecks.",
+    "color": "Rich Coffee Chestnut with Charcoal and Amber Crystals",
+    "finishAvailable": [
+      "Mirror Polished",
+      "Flamed",
+      "Honed",
+      "Bush Hammered"
+    ],
+    "compressiveStrength": "2,650 kg/cm²",
+    "waterAbsorption": "0.04%",
+    "hardness": "6.5 Mohs",
+    "density": "2.92 g/cm³",
+    "recommendedUses": [
+      "Heavy Duty Kitchen Worktops",
+      "High Footfall Commercial Flooring",
+      "Elevator Surrounds",
+      "Steps"
+    ],
+    "historicalSignificance": "One of the most durable natural granites in the world, quarried from the Precambrian Deccan craton.",
+    "priceTier": "Premium",
+    "rating": 4.85,
+    "tags": [
+      "Granite",
+      "Tan Brown",
+      "Indestructible"
+    ]
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "modern": [
+    {
+      "id": "app-luxury-flooring",
+      "title": "Luxury Flooring",
+      "subtitle": "Mirrored gloss & enduring grandeur",
+      "icon": "fa-gem",
+      "recommended": [
+        "Makrana Marble",
+        "Indian Green Marble",
+        "Kota Stone"
+      ],
+      "description": "Bookmatched large format slabs that deliver seamless expansive floors, reflecting natural light and maintaining a naturally cool temperature in any climate."
+    },
+    {
+      "id": "app-countertops",
+      "title": "Kitchen Countertops",
+      "subtitle": "Heat, stain & scratch resistance",
+      "icon": "fa-utensils",
+      "recommended": [
+        "Black Galaxy Granite",
+        "Tan Brown Granite",
+        "Honed Granite"
+      ],
+      "description": "Dense igneous granites with high Mohs hardness that withstand knife marks, hot cookware, and acidic food preparation while looking breathtaking."
+    },
+    {
+      "id": "app-bathrooms",
+      "title": "Bathroom Surfaces",
+      "subtitle": "Sanctuary of spa elegance",
+      "icon": "fa-bath",
+      "recommended": [
+        "Makrana Marble",
+        "Indian Green Marble",
+        "Banswara Purple"
+      ],
+      "description": "Non-porous polished and honed stones ideal for zero-grout shower walls, sculpted marble freestanding tubs, and floating vanities."
+    },
+    {
+      "id": "app-feature-walls",
+      "title": "Feature Walls",
+      "subtitle": "Living art pieces in stone",
+      "icon": "fa-border-all",
+      "recommended": [
+        "Bookmatched Banswara",
+        "Backlit Onyx Marble",
+        "Jaisalmer Yellow"
+      ],
+      "description": "Dramatic quad-matched veins that form symmetrical organic butterflies and abstract landscapes, turning interior walls into museum-grade art."
+    },
+    {
+      "id": "app-staircases",
+      "title": "Staircases",
+      "subtitle": "Sculptural vertical transitions",
+      "icon": "fa-stairs",
+      "recommended": [
+        "Kota Stone (Honed)",
+        "Black Galaxy Granite",
+        "Makrana White"
+      ],
+      "description": "Full bullnose and bevel-edge treads with precision anti-skid grooving and contrasting stone risers that endure heavy footfalls."
+    },
+    {
+      "id": "app-facades",
+      "title": "Exterior Facades",
+      "subtitle": "Generational climate envelopes",
+      "icon": "fa-building",
+      "recommended": [
+        "Rajasthan Sandstone",
+        "Dholpur Beige",
+        "Flamed Granite"
+      ],
+      "description": "Dry-hung ventilated stone cladding that acts as a natural thermal buffer, shielding buildings from ultraviolet degradation and weathering."
+    }
+  ],
+  "traditional": [
+    {
+      "id": "app-temple-interiors",
+      "title": "Temple Interiors",
+      "subtitle": "Sacred sanctum craftsmanship",
+      "icon": "fa-place-of-worship",
+      "recommended": [
+        "Makrana White Marble",
+        "Ambaji White Marble"
+      ],
+      "description": "Revered stones specified according to ancient Shilpa Shastra guidelines for garbhagrihas, mandapas, and sanctum altars."
+    },
+    {
+      "id": "app-heritage-buildings",
+      "title": "Heritage Buildings",
+      "subtitle": "Authentic historic preservation",
+      "icon": "fa-landmark",
+      "recommended": [
+        "Jaisalmer Yellow Sandstone",
+        "Dholpur Red Sandstone"
+      ],
+      "description": "Quarry-matched replacement ashlar blocks and lintels for restoring forts, royal havelis, and colonial monuments."
+    },
+    {
+      "id": "app-sculptures",
+      "title": "Sculptures",
+      "subtitle": "Hand-chiseled timeless figures",
+      "icon": "fa-monument",
+      "recommended": [
+        "Pure White Makrana",
+        "Soft Pink Sandstone"
+      ],
+      "description": "Master artisans sculpting intricate floral arabesques, deity statues, and monumental installations with millimeter precision."
+    },
+    {
+      "id": "app-decorative-columns",
+      "title": "Decorative Columns",
+      "subtitle": "Pillars of aristocratic power",
+      "icon": "fa-columns",
+      "recommended": [
+        "Carved Sandstone",
+        "Polished Marble"
+      ],
+      "description": "Fluted, spiral, and bell-capital monolithic pillars replicating the architectural majesty of Ranakpur and Amber palaces."
+    },
+    {
+      "id": "app-monument-restoration",
+      "title": "Monument Restoration",
+      "subtitle": "Conservation science & stone matching",
+      "icon": "fa-hammer",
+      "recommended": [
+        "Historic Rajasthani Quarries"
+      ],
+      "description": "Geological petrographic testing and conservation mortar pairing to preserve centuries of architectural heritage."
+    },
+    {
+      "id": "app-jali-carving",
+      "title": "Traditional Jali Carving",
+      "subtitle": "Intricate perforated lattice screens",
+      "icon": "fa-th",
+      "recommended": [
+        "Jaisalmer Sandstone",
+        "Makrana Marble"
+      ],
+      "description": "Intricate pierced stone fretwork that filters intense solar glare, casts poetic lace shadows, and funnels cooling breezes through the Venturi effect."
+    }
+  ]
+}

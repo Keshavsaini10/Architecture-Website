@@ -1,0 +1,38 @@
+[
+  {
+    "eraId": "ancient",
+    "eraName": "Ancient India",
+    "period": "Pre-1600",
+    "title": "Rock-Cut Sanctuaries & Vedic Temples",
+    "description": "The dawn of Indian monumental stonework. Craftsmen chiseled entire mountains of basalt and granite into monolithic wonders like the Kailasa Temple at Ellora, the Sun Temple at Konark, and early stupas.",
+    "stoneHero": "Granite, Basalt & Panna Sandstone",
+    "exemplar": "Ellora Caves & Khajuraho Complex"
+  },
+  {
+    "eraId": "medieval",
+    "eraName": "Medieval Architecture",
+    "period": "1600 - 1700 AD",
+    "title": "The Golden Age of Mughal & Rajput Marble",
+    "description": "An explosion of stone refinement. Royal patronage elevated Makrana marble to divine status, pioneering the Pietra Dura inlay technique, pierced jali screens that filter desert winds, and palatial fortress compounds.",
+    "stoneHero": "Makrana Pure Marble & Jaisalmer Yellow",
+    "exemplar": "Taj Mahal & Amber Fort"
+  },
+  {
+    "eraId": "colonial",
+    "eraName": "Colonial Era",
+    "period": "1700 - 1947",
+    "title": "Indo-Saracenic & Classical Civic Architecture",
+    "description": "A monumental fusion where British engineers embraced indigenous Indian stone. Lutyens chose Dholpur red and buff sandstone for Delhi's grand avenues, while Kolkata erected the Victoria Memorial in Makrana marble.",
+    "stoneHero": "Dholpur Sandstone & Makrana Marble",
+    "exemplar": "Victoria Memorial & Rashtrapati Bhavan"
+  },
+  {
+    "eraId": "modern",
+    "eraName": "Modern Architecture",
+    "period": "1947 - Present",
+    "title": "Sustainable Luxury & Contemporary Facades",
+    "description": "Modern architects re-imagine Indian stones with aerospace-grade CNC waterjet precision, lightweight honeycomb-backed marble panels, and sustainable ventilated rainscreens for luxury residences and global landmarks.",
+    "stoneHero": "Black Galaxy Granite & Bookmatched Marbles",
+    "exemplar": "Modern Luxury Villas & Civic Centers"
+  }
+]

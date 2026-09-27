@@ -1,0 +1,50 @@
+[
+  {
+    "id": "g1",
+    "title": "Palatial Marble Hallway",
+    "category": "Interior",
+    "stone": "Makrana White Marble",
+    "image": "/assets/images/gallery_palace_floor.jpg",
+    "caption": "High gloss mirror polished Makrana marble flooring reflecting courtyard fountains in an Udaipur heritage hotel."
+  },
+  {
+    "id": "g2",
+    "title": "Royal Arch & Sandstone Carving",
+    "category": "Carvings",
+    "stone": "Rajasthan Sandstone",
+    "image": "/assets/images/gallery_carved_arch.jpg",
+    "caption": "Cusped arches with hand-carved floral rosettes and fluted pillars in Jaipur."
+  },
+  {
+    "id": "g3",
+    "title": "Executive Penthouse Bathroom",
+    "category": "Interior",
+    "stone": "Verde Green Marble & Makrana",
+    "image": "/assets/images/gallery_luxury_bath.jpg",
+    "caption": "Continuous vein slab bathroom ensuite with integrated stone basin and concealed lighting."
+  },
+  {
+    "id": "g4",
+    "title": "Sacred Temple Relief Sculpture",
+    "category": "Carvings",
+    "stone": "Jaisalmer Golden Limestone",
+    "image": "/assets/images/gallery_temple_sculpture.jpg",
+    "caption": "Artisan carving depicting ancient motifs with three-dimensional depth and razor-sharp shadow relief."
+  },
+  {
+    "id": "g5",
+    "title": "Contemporary Corporate Headquarters",
+    "category": "Facades",
+    "stone": "Flamed Granite & Honed Cladding",
+    "image": "/assets/images/gallery_modern_lobby.jpg",
+    "caption": "Precision curtain wall facade in New Delhi with monolithic granite columns."
+  },
+  {
+    "id": "g6",
+    "title": "Lotus Carved Stone Fountain",
+    "category": "Monumental",
+    "stone": "Makrana Marble & Sandstone",
+    "image": "/assets/images/gallery_stone_fountain.jpg",
+    "caption": "Multi-tiered lotus fountain with natural water ripple cascades."
+  }
+]

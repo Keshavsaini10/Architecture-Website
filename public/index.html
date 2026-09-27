@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ExploreMore Stones | India's Heritage, Carved in Stone</title>
+  <meta name="description" content="Discover timeless Indian marble, sandstone, and granite crafted for architecture that lasts for generations. Makrana Marble, Jaisalmer Stone, Black Galaxy Granite.">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23c89b53'><polygon points='12,2 2,22 22,22'/><polygon points='12,7 5,20 19,20' fill='%230d0f12'/></svg>">
+
+  <!-- Google Fonts: Cormorant Garamond, Cinzel, Outfit -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <!-- Main Design System CSS -->
+  <link rel="stylesheet" href="/css/index.css">
+</head>
+<body>
+
+  <!-- ========================================================================
+       HEADER / NAVBAR
+       ======================================================================== -->
+  <header class="header" id="mainHeader">
+    <div class="container nav-container">
+      <a href="#home" class="brand-logo" id="brandLogo">
+        <div class="brand-icon">
+          <svg viewBox="0 0 40 32" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 34px; height: 28px;">
+            <path d="M20 2L38 30H2L20 2Z" stroke="#c89b53" stroke-width="2.5" stroke-linejoin="round"/>
+            <path d="M20 9L31 27H9L20 9Z" stroke="#c89b53" stroke-width="1.5" stroke-linejoin="round"/>
+            <circle cx="20" cy="18" r="2.5" fill="#c89b53"/>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <span class="brand-name">EXPLOREMORE</span>
+          <span class="brand-sub">STONES</span>
+        </div>
+      </a>
+
+      <nav>
+        <ul class="nav-menu">
+          <li><a href="#home" class="nav-link active">Home</a></li>
+          <li><a href="#collection" class="nav-link">Stone Collection</a></li>
+          <li><a href="#architecture" class="nav-link">Architecture</a></li>
+          <li><a href="#heritage" class="nav-link">Heritage</a></li>
+          <li><a href="#applications" class="nav-link">Applications</a></li>
+          <li><a href="#about" class="nav-link">About</a></li>
+          <li><a href="#contact" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <button class="nav-icon-btn" id="btnSearchTrigger" title="Search Stones & Monuments">
+          <i class="fas fa-search"></i>
+        </button>
+        <a href="#collection" class="btn-pill-gold">
+          Explore Collection
+        </a>
+        <button class="mobile-toggle" aria-label="Toggle Navigation">
+          <i class="fas fa-bars"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ========================================================================
+       HERO SECTION
+       ======================================================================== -->
+  <section id="home" class="hero-section">
+    <div class="hero-bg-container">
+      <img src="/assets/images/hero_taj_mahal.jpg" alt="Taj Mahal Indian Heritage Marble Architecture" class="hero-bg-image">
+      <div class="hero-overlay"></div>
+    </div>
+
+    <div class="container hero-content">
+      <div class="hero-badge">
+        <i class="fas fa-gem" style="color: var(--gold); font-size: 0.65rem;"></i>
+        TIMELESS. NATURAL. INDIAN.
+      </div>
+      <h1 class="hero-title">
+        India's Heritage,<br>Carved in Stone.
+      </h1>
+      <p class="hero-desc">
+        Discover timeless Indian marble, sandstone and granite crafted for architecture that lasts for generations.
+      </p>
+      <div class="hero-actions">
+        <a href="#collection" class="btn-hero-primary" id="btnExploreStones">
+          Explore Stones <i class="fas fa-arrow-right"></i>
+        </a>
+        <a href="#architecture" class="btn-hero-secondary" id="btnViewArch">
+          View Architecture
+        </a>
+      </div>
+    </div>
+
+    <div class="hero-bottom">
+      <div class="container hero-bottom-container">
+        <div class="scroll-indicator" title="Scroll Down">
+          <div class="mouse-icon">
+            <div class="mouse-dot"></div>
+          </div>
+          <span>Scroll Down</span>
+        </div>
+
+        <div class="hero-pagination">
+          <button class="hero-nav-arrow hero-prev-btn" aria-label="Previous Slide">
+            <i class="fas fa-chevron-left"></i>
+          </button>
+          <span class="hero-page-index">01 / 04</span>
+          <button class="hero-nav-arrow hero-next-btn" aria-label="Next Slide">
+            <i class="fas fa-chevron-right"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       STONE COLLECTION SECTION
+       ======================================================================== -->
+  <section id="collection" class="stone-collection-section">
+    <div class="container">
+      <div class="collection-header-row">
+        <div>
+          <span class="section-tag">STONE COLLECTION</span>
+          <h2 class="section-title">Nature, Crafted by Time</h2>
+          <p class="section-desc">
+            Explore our handcrafted collection of India's finest natural stones, each with a unique story, texture and character.
+          </p>
+        </div>
+        <div>
+          <button class="btn-pill-gold" data-open-inquiry style="background: #111827; color: #ffffff; border-color: #111827;">
+            <i class="fas fa-box"></i> Order Sample Box
+          </button>
+        </div>
+      </div>
+
+      <!-- Filter Pills -->
+      <div class="filter-pills-bar">
+        <button class="filter-pill active" data-filter="all">All</button>
+        <button class="filter-pill" data-filter="marble">Marble</button>
+        <button class="filter-pill" data-filter="granite">Granite</button>
+        <button class="filter-pill" data-filter="sandstone">Sandstone</button>
+        <button class="filter-pill" data-filter="limestone">Limestone</button>
+      </div>
+
+      <!-- Stones Grid Container -->
+      <div class="stones-grid-wrapper">
+        <div class="stones-grid" id="stonesGrid">
+          <!-- Dynamically populated by JS from /api/stones -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       ICONIC ARCHITECTURE SECTION
+       ======================================================================== -->
+  <section id="architecture" class="architecture-section">
+    <div class="container">
+      <div class="arch-header-row">
+        <div>
+          <span class="section-tag">ICONIC ARCHITECTURE</span>
+          <h2 class="section-title">Timeless Structures, Lasting Beauty</h2>
+          <p class="section-desc">
+            Explore India's most iconic monuments built with extraordinary stone craftsmanship.
+          </p>
+        </div>
+        <div>
+          <button class="btn-view-all-arch" data-open-inquiry>
+            View All Architecture <i class="fas fa-arrow-right"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Architecture Track -->
+      <div class="arch-carousel-container">
+        <div class="arch-track" id="archTrack">
+          <!-- Dynamically populated from /api/architecture -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       OUR HERITAGE / TIMELINE SECTION
+       ======================================================================== -->
+  <section id="heritage" class="heritage-section">
+    <div class="container">
+      <div class="heritage-grid">
+        <!-- Left Visual -->
+        <div class="heritage-visual">
+          <img src="/assets/images/corridor_heritage.jpg" alt="Palatial Rajasthani Arched Stone Corridor" class="heritage-corridor-img">
+          <div class="heritage-overlay-badge">
+            <div class="heritage-overlay-title">Imperial Stone Arches of Rajasthan</div>
+            <div class="heritage-overlay-sub">
+              <i class="fas fa-feather-alt" style="margin-right: 0.35rem;"></i> Centuries of Unbroken Stonemasonry Tradition
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Timeline -->
+        <div class="heritage-details">
+          <span class="section-tag">OUR HERITAGE</span>
+          <h2 class="section-title">From Ancient Monuments to Modern Masterpieces</h2>
+          <p class="section-desc">
+            For centuries, Indian stone has shaped cultures, cities and dreams. From the grandeur of ancient temples to the elegance of modern spaces, our stones continue to tell stories of art, strength and timeless beauty.
+          </p>
+
+          <!-- Timeline Navigation -->
+          <div class="timeline-nav" id="timelineNav">
+            <!-- Dynamically populated from /api/heritage/timeline -->
+          </div>
+
+          <!-- Timeline Display Card -->
+          <div class="timeline-display-card" id="timelineDisplayCard">
+            <!-- Dynamically rendered -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       APPLICATIONS & INTERACTIVE STONE VISUALIZER
+       ======================================================================== -->
+  <section id="applications" class="apps-visualizer-section">
+    <div class="container">
+      <div class="apps-vis-layout">
+        
+        <!-- Left Applications Box -->
+        <div class="apps-box">
+          <div class="apps-box-header">
+            <div>
+              <span class="section-tag">VERSATILITY & UTILITY</span>
+              <h3 class="apps-box-title">Applications</h3>
+            </div>
+          </div>
+
+          <div class="apps-category-tabs">
+            <button class="app-tab-btn active" data-tab="modern">Modern Uses</button>
+            <button class="app-tab-btn" data-tab="traditional">Traditional Uses</button>
+          </div>
+
+          <div class="apps-grid" id="appsGrid">
+            <!-- Dynamically populated from /api/applications -->
+          </div>
+        </div>
+
+        <!-- Right Visualizer Box -->
+        <div class="visualizer-box">
+          <div>
+            <span class="section-tag">VIRTUAL STUDIO</span>
+            <h3 class="vis-title">Imagine Your Space in Stone</h3>
+            <p class="vis-desc">
+              Preview how different stones look in your space. Choose a stone, application and see it come to life.
+            </p>
+          </div>
+
+          <!-- Controls Bar -->
+          <div class="vis-controls-bar">
+            <div class="vis-control-group">
+              <span class="vis-control-label">Select Stone</span>
+              <select id="visStoneSelect" class="vis-select">
+                <!-- Populated dynamically -->
+              </select>
+            </div>
+
+            <div class="vis-control-group">
+              <span class="vis-control-label">Application</span>
+              <div class="vis-app-buttons">
+                <button class="vis-app-btn active" data-app="flooring">Flooring</button>
+                <button class="vis-app-btn" data-app="countertop">Countertop</button>
+                <button class="vis-app-btn" data-app="wall">Wall</button>
+                <button class="vis-app-btn" data-app="exterior">Exterior</button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Room Selection & Lighting Mode Bar -->
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; flex-wrap: wrap; gap: 0.5rem;">
+            <div class="vis-pill-bar">
+              <span style="font-size: 0.72rem; color: var(--text-muted); text-transform: uppercase;">Space:</span>
+              <button class="vis-pill-btn active" data-inpage-room="living">Living Room</button>
+              <button class="vis-pill-btn" data-inpage-room="corridor">Palace Hall</button>
+              <button class="vis-pill-btn" data-inpage-room="bath">Royal Bath</button>
+            </div>
+
+            <div class="vis-pill-bar">
+              <span style="font-size: 0.72rem; color: var(--text-muted); text-transform: uppercase;">Lighting:</span>
+              <button class="vis-pill-btn active" data-inpage-light="day">☀️ Day</button>
+              <button class="vis-pill-btn" data-inpage-light="golden">🌅 Gold</button>
+              <button class="vis-pill-btn" data-inpage-light="night">🌙 Night</button>
+            </div>
+          </div>
+
+          <!-- Texture Swatches Row -->
+          <div class="swatches-row" id="visSwatches">
+            <!-- Populated dynamically -->
+          </div>
+
+          <!-- Room Viewport -->
+          <div class="vis-viewport">
+            <img id="inpageVisRoomImg" src="/assets/images/room_visualizer_living.jpg" alt="Luxury Living Room with Marble Flooring" class="vis-room-img">
+            <div class="vis-texture-overlay"></div>
+            <div class="vis-room-badge" id="visActiveStoneBadge">
+              Makrana Marble • FLOORING
+            </div>
+          </div>
+
+          <div class="vis-footer-action" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+            <div style="font-size: 0.78rem; color: var(--text-secondary);">
+              <i class="fas fa-sliders-h" style="color: var(--gold); margin-right: 0.35rem;"></i> Compare side-by-side in Studio Mode
+            </div>
+            <button class="btn-vis-expand" id="btnOpenFullVisualizer">
+              Try Stone Visualizer <i class="fas fa-arrow-right"></i>
+            </button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       OUR GALLERY
+       ======================================================================== -->
+  <section class="gallery-section">
+    <div class="container">
+      <div class="gallery-header-row">
+        <div>
+          <span class="section-tag">PORTFOLIO</span>
+          <h2 class="section-title">Our Gallery</h2>
+        </div>
+        <div>
+          <button class="btn-view-all-arch" data-open-inquiry>
+            View All <i class="fas fa-arrow-right"></i>
+          </button>
+        </div>
+      </div>
+
+      <div class="gallery-mosaic" id="galleryMosaic">
+        <!-- Populated dynamically from /api/gallery -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       ABOUT & STATS
+       ======================================================================== -->
+  <section id="about" class="about-section">
+    <div class="container">
+      <div class="about-header">
+        <span class="section-tag">About ExploreMore Stones</span>
+        <h2 class="section-title">Crafting Timeless Spaces</h2>
+        <p class="section-desc">
+          We are a leading Indian stone company, dedicated to bringing the natural beauty and heritage of Indian stones to modern spaces. With a legacy of quality, craftsmanship and trust, we source the finest stones and deliver custom solutions for every project.
+        </p>
+      </div>
+
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-icon"><i class="fas fa-award"></i></div>
+          <div class="stat-number" id="statYears">25+</div>
+          <div class="stat-label">Years Experience</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon"><i class="fas fa-layer-group"></i></div>
+          <div class="stat-number" id="statVarieties">100+</div>
+          <div class="stat-label">Stone Varieties</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon"><i class="fas fa-monument"></i></div>
+          <div class="stat-number" id="statProjects">500+</div>
+          <div class="stat-label">Projects Completed</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon"><i class="fas fa-city"></i></div>
+          <div class="stat-number" id="statCities">20+</div>
+          <div class="stat-label">Cities Served</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================================================================
+       FOOTER
+       ======================================================================== -->
+  <footer id="contact" class="footer">
+    <div class="container">
+      <div class="footer-top">
+        <!-- Col 1: Brand -->
+        <div>
+          <div class="brand-logo">
+            <div class="brand-icon">
+              <svg viewBox="0 0 40 32" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 30px; height: 24px;">
+                <path d="M20 2L38 30H2L20 2Z" stroke="#c89b53" stroke-width="2.5" stroke-linejoin="round"/>
+                <path d="M20 9L31 27H9L20 9Z" stroke="#c89b53" stroke-width="1.5" stroke-linejoin="round"/>
+              </svg>
+            </div>
+            <div class="brand-text">
+              <span class="brand-name">EXPLOREMORE</span>
+              <span class="brand-sub">STONES</span>
+            </div>
+          </div>
+          <p class="footer-brand-desc">
+            Premium Indian marble, sandstone and granite for timeless architecture and elegant spaces.
+          </p>
+          <div class="footer-socials">
+            <a href="#" class="social-icon-link" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="social-icon-link" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="#" class="social-icon-link" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" class="social-icon-link" aria-label="Pinterest"><i class="fab fa-pinterest-p"></i></a>
+            <a href="#" class="social-icon-link" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+          </div>
+        </div>
+
+        <!-- Col 2: Quick Links -->
+        <div>
+          <h4 class="footer-col-title">Quick Links</h4>
+          <ul class="footer-links">
+            <li><a href="#home" class="footer-link">Home</a></li>
+            <li><a href="#collection" class="footer-link">Stone Collection</a></li>
+            <li><a href="#architecture" class="footer-link">Architecture</a></li>
+            <li><a href="#applications" class="footer-link">Applications</a></li>
+            <li><a href="#about" class="footer-link">About Us</a></li>
+            <li><a href="#contact" class="footer-link">Contact</a></li>
+          </ul>
+        </div>
+
+        <!-- Col 3: Categories -->
+        <div>
+          <h4 class="footer-col-title">Stone Categories</h4>
+          <ul class="footer-links">
+            <li><a href="#collection" class="footer-link">Marble</a></li>
+            <li><a href="#collection" class="footer-link">Granite</a></li>
+            <li><a href="#collection" class="footer-link">Sandstone</a></li>
+            <li><a href="#collection" class="footer-link">Limestone</a></li>
+            <li><a href="#collection" class="footer-link">Bespoke Inlays</a></li>
+          </ul>
+        </div>
+
+        <!-- Col 4: Applications -->
+        <div>
+          <h4 class="footer-col-title">Applications</h4>
+          <ul class="footer-links">
+            <li><a href="#applications" class="footer-link">Modern Uses</a></li>
+            <li><a href="#applications" class="footer-link">Traditional Uses</a></li>
+            <li><a href="#applications" class="footer-link">Interior Flooring</a></li>
+            <li><a href="#applications" class="footer-link">Exterior Facades</a></li>
+            <li><a href="#applications" class="footer-link">Monument Restoration</a></li>
+          </ul>
+        </div>
+
+        <!-- Col 5: Newsletter -->
+        <div>
+          <h4 class="footer-col-title">Subscribe to Our Newsletter</h4>
+          <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 1rem; line-height: 1.5;">
+            Get the latest updates on new stones, quarry arrivals, projects and offers.
+          </p>
+          <form class="newsletter-form" id="newsletterForm">
+            <div class="newsletter-input-box">
+              <input type="email" class="newsletter-input" placeholder="Your email address" required>
+              <button type="submit" class="newsletter-btn" aria-label="Subscribe">
+                <i class="fas fa-arrow-right"></i>
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div>
+          &copy; 2026 ExploreMore Stones. All Rights Reserved. Crafted with Indian Heritage.
+        </div>
+        <div class="footer-bottom-links">
+          <a href="#" style="color: var(--text-muted);">Privacy Policy</a>
+          <a href="#" style="color: var(--text-muted);">Terms & Conditions</a>
+          <a href="#" style="color: var(--text-muted);">Quarry Ethics</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ========================================================================
+       MODALS
+       ======================================================================== -->
+  <!-- Stone Detail Inspection Modal -->
+  <div class="modal-backdrop" id="stoneModal">
+    <div class="modal-dialog">
+      <!-- Populated dynamically -->
+    </div>
+  </div>
+
+  <!-- Architecture Detail Modal -->
+  <div class="modal-backdrop" id="archModal">
+    <div class="modal-dialog">
+      <!-- Populated dynamically -->
+    </div>
+  </div>
+
+  <!-- Full Visualizer Modal -->
+  <div class="modal-backdrop" id="visualizerModal">
+    <div class="modal-dialog" style="max-width: 960px;">
+      <!-- Populated dynamically -->
+    </div>
+  </div>
+
+  <!-- Gallery Lightbox Modal -->
+  <div class="modal-backdrop" id="galleryModal">
+    <div class="modal-dialog" style="max-width: 860px;">
+      <!-- Populated dynamically -->
+    </div>
+  </div>
+
+  <!-- Global Search Modal -->
+  <div class="modal-backdrop" id="searchModal">
+    <div class="modal-dialog" style="max-width: 650px;">
+      <button class="modal-close-btn"><i class="fas fa-times"></i></button>
+      <div style="padding: 2.25rem;">
+        <div class="section-tag">Instant Stone Search</div>
+        <h3 style="font-family: var(--font-serif); font-size: 1.75rem; color: #ffffff; margin-bottom: 1.25rem;">
+          Find Your Heritage Stone
+        </h3>
+        <div style="position: relative; margin-bottom: 1.5rem;">
+          <input type="text" id="globalSearchInput" placeholder="Search by stone name, color, origin or application (e.g. Makrana, White, Flooring)..." style="width: 100%; background: #191e26; border: 1px solid var(--border-gold); border-radius: var(--radius-pill); padding: 0.85rem 1.25rem 0.85rem 3rem; color: #ffffff; font-size: 0.95rem; outline: none;">
+          <i class="fas fa-search" style="position: absolute; left: 1.25rem; top: 50%; transform: translateY(-50%); color: var(--gold);"></i>
+        </div>
+        <div id="searchResultsList" style="display: flex; flex-direction: column; gap: 0.75rem; max-height: 380px; overflow-y: auto;">
+          <!-- Populated dynamically -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Inquiry / Quote Modal -->
+  <div class="modal-backdrop" id="inquiryModal">
+    <div class="modal-dialog">
+      <!-- Populated dynamically -->
+    </div>
+  </div>
+
+  <!-- Main JavaScript App -->
+  <script src="/js/app.js"></script>
+</body>
+</html>

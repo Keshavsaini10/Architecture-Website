@@ -1,0 +1,127 @@
+{
+  "rooms": [
+    {
+      "id": "living",
+      "name": "Luxury Living Room",
+      "baseImage": "/assets/images/room_visualizer_living.jpg",
+      "floorHeight": "52%",
+      "wallWidth": "35%"
+    },
+    {
+      "id": "corridor",
+      "name": "Heritage Palace Hall",
+      "baseImage": "/assets/images/corridor_heritage.jpg",
+      "floorHeight": "45%",
+      "wallWidth": "40%"
+    },
+    {
+      "id": "bath",
+      "name": "Royal Suite Bathroom",
+      "baseImage": "/assets/images/gallery_luxury_bath.jpg",
+      "floorHeight": "48%",
+      "wallWidth": "50%"
+    },
+    {
+      "id": "lobby",
+      "name": "Modern Civic Lobby",
+      "baseImage": "/assets/images/gallery_modern_lobby.jpg",
+      "floorHeight": "44%",
+      "wallWidth": "30%"
+    }
+  ],
+  "lightingModes": [
+    {
+      "id": "daylight",
+      "name": "Natural Daylight",
+      "filter": "brightness(1) contrast(1.05)"
+    },
+    {
+      "id": "golden-hour",
+      "name": "Golden Sunset Hour",
+      "filter": "brightness(0.98) sepia(0.25) saturate(1.3)"
+    },
+    {
+      "id": "evening",
+      "name": "Dramatic Evening Accent",
+      "filter": "brightness(0.85) contrast(1.25) hue-rotate(-10deg)"
+    }
+  ],
+  "finishes": [
+    {
+      "id": "polished",
+      "name": "Mirror Polished",
+      "overlayOpacity": "0.92",
+      "blendMode": "soft-light"
+    },
+    {
+      "id": "honed",
+      "name": "Velvet Honed",
+      "overlayOpacity": "0.75",
+      "blendMode": "multiply"
+    },
+    {
+      "id": "leather",
+      "name": "Antiqued Leather",
+      "overlayOpacity": "0.85",
+      "blendMode": "overlay"
+    }
+  ],
+  "stonesAvailable": [
+    {
+      "id": "makrana-marble",
+      "name": "Makrana Marble",
+      "category": "Marble",
+      "texture": "/assets/images/stone_makrana.jpg",
+      "tint": "#f7f7f7"
+    },
+    {
+      "id": "kota-stone",
+      "name": "Kota Stone",
+      "category": "Limestone",
+      "texture": "/assets/images/stone_kota.jpg",
+      "tint": "#6a7b73"
+    },
+    {
+      "id": "jaisalmer-yellow",
+      "name": "Jaisalmer Yellow",
+      "category": "Sandstone",
+      "texture": "/assets/images/stone_jaisalmer.jpg",
+      "tint": "#d9a74a"
+    },
+    {
+      "id": "black-galaxy-granite",
+      "name": "Black Galaxy",
+      "category": "Granite",
+      "texture": "/assets/images/stone_black_galaxy.jpg",
+      "tint": "#111111"
+    },
+    {
+      "id": "indian-green-marble",
+      "name": "Indian Green",
+      "category": "Marble",
+      "texture": "/assets/images/stone_green_marble.jpg",
+      "tint": "#1e3f20"
+    },
+    {
+      "id": "rajasthan-sandstone",
+      "name": "Rajasthan Sandstone",
+      "category": "Sandstone",
+      "texture": "/assets/images/stone_rajasthan_sandstone.jpg",
+      "tint": "#c47a5b"
+    },
+    {
+      "id": "banswara-purple-marble",
+      "name": "Banswara Purple",
+      "category": "Marble",
+      "texture": "/assets/images/stone_banswara_purple.jpg",
+      "tint": "#eae2f0"
+    },
+    {
+      "id": "dholpur-beige-sandstone",
+      "name": "Dholpur Beige",
+      "category": "Sandstone",
+      "texture": "/assets/images/stone_dholpur_beige.jpg",
+      "tint": "#e8dcbe"
+    }
+  ]
+}

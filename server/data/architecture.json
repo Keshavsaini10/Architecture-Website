@@ -1,0 +1,98 @@
+[
+  {
+    "id": "taj-mahal",
+    "name": "Taj Mahal",
+    "stoneUsed": "Makrana Marble",
+    "location": "Agra, Uttar Pradesh",
+    "era": "Medieval Architecture (1632 - 1653 AD)",
+    "builder": "Mughal Emperor Shah Jahan",
+    "image": "/assets/images/arch_taj_mahal.jpg",
+    "summary": "The pinnacle of Mughal architectural genius and universal love, crafted from pristine Makrana marble that changes hue with the shifting sunlight and moonlight.",
+    "stoneDetails": "Over 20,000 workers quarried Makrana marble 300 km away in Rajasthan and transported it on ox-carts. The marble's fine calcite crystal structure reflects sunlight with an ethereal warm glow at sunrise, dazzling white at midday, and translucent silver under the full moon.",
+    "keyFeatures": [
+      "Inlaid with 28 types of precious stones (Pietra Dura)",
+      "Central onion dome rising 73 meters",
+      "Perpetually gleaming surface without discoloration"
+    ]
+  },
+  {
+    "id": "khajuraho-temples",
+    "name": "Khajuraho Temples",
+    "stoneUsed": "Buff & Ochre Sandstone",
+    "location": "Khajuraho, Madhya Pradesh",
+    "era": "Ancient India (950 - 1050 AD)",
+    "builder": "Chandela Dynasty",
+    "image": "/assets/images/arch_khajuraho.jpg",
+    "summary": "UNESCO World Heritage site representing the zenith of Indian temple architecture, adorned with breathtaking figurative stone relief carvings.",
+    "stoneDetails": "Constructed using interlocking mortise and tenon stone joints without mortar, sculpted from local fine-grained Panna sandstone that allowed the sculptors to achieve lifelike delicacy in hair curls, drapery, and expressions.",
+    "keyFeatures": [
+      "Nagara-style curvilinear shikhara spires",
+      "Over 80 original temple sanctuaries",
+      "Centuries-old stone joint preservation"
+    ]
+  },
+  {
+    "id": "victoria-memorial",
+    "name": "Victoria Memorial",
+    "stoneUsed": "White Makrana Marble",
+    "location": "Kolkata, West Bengal",
+    "era": "Colonial Era (1906 - 1921)",
+    "builder": "Sir William Emerson (Architect)",
+    "image": "/assets/images/arch_victoria.jpg",
+    "summary": "A grand marble monument melding Indo-Saracenic, British neoclassical, and Venetian Renaissance architectural traditions.",
+    "stoneDetails": "Built using over 250,000 cubic feet of prime Makrana marble from the very same Rajasthani quarries that supplied the Taj Mahal three centuries prior, testifying to the perennial quality of Indian marble.",
+    "keyFeatures": [
+      "184-foot high central marble dome",
+      "Angel of Victory bronze rotating weather vane",
+      "64 acres of reflecting pools and marble balustrades"
+    ]
+  },
+  {
+    "id": "ranakpur-temple",
+    "name": "Ranakpur Temple",
+    "stoneUsed": "Crystalline Amber & White Marble",
+    "location": "Ranakpur, Pali, Rajasthan",
+    "era": "Medieval Architecture (15th Century)",
+    "builder": "Dharna Shah & Rana Kumbha",
+    "image": "/assets/images/arch_ranakpur.jpg",
+    "summary": "A sprawling 15th-century Chaumukha Jain temple sanctuary hidden in the Aravalli hills, celebrated for its forest of 1,444 intricately carved marble pillars.",
+    "stoneDetails": "Carved from light-toned Rajasthani marble that subtly shifts from warm cream at dawn to pale amber in the afternoon. Every single pillar features entirely unique, unrepeated sculptural motifs.",
+    "keyFeatures": [
+      "1,444 individually hand-carved marble pillars",
+      "Pillar in the main hall designed with a conscious tilt as a tribute to divine perfection",
+      "Passive cooling marble arches that regulate desert heat"
+    ]
+  },
+  {
+    "id": "amber-fort",
+    "name": "Amber Fort",
+    "stoneUsed": "Yellow & Red Sandstone",
+    "location": "Jaipur, Rajasthan",
+    "era": "Medieval Architecture (1592 AD)",
+    "builder": "Raja Man Singh I",
+    "image": "/assets/images/arch_amber_fort.jpg",
+    "summary": "A majestic hilltop fortress palace harmoniously marrying Rajput martial architecture with opulent Mughal marble and sandstone courtrooms.",
+    "stoneDetails": "High-density red and yellow sandstone quarried from neighboring hills provided impregnable defensive ramparts while allowing delicate floral fretwork and pierced jali windows.",
+    "keyFeatures": [
+      "Sheesh Mahal (Palace of Mirrors) with inlaid convex glass and marble",
+      "Ganesh Pol multi-level carved sandstone gateway",
+      "Sukh Niwas marble channel air-conditioning system"
+    ]
+  },
+  {
+    "id": "modern-architecture",
+    "name": "Modern Architecture",
+    "stoneUsed": "Granite & Marble Cladding",
+    "location": "New Delhi & NCR",
+    "era": "Modern Architecture (1947 - Present)",
+    "builder": "Leading Contemporary Architects",
+    "image": "/assets/images/arch_modern.jpg",
+    "summary": "Next-generation civic centers, luxury towers, and embassies using ventilated Indian stone rainscreens for energy efficiency and timeless prestige.",
+    "stoneDetails": "Combines CNC diamond-sawn Indian granite with thermal flamed finishes and acoustic stone tile panels, reducing cooling loads while providing generational building envelopes.",
+    "keyFeatures": [
+      "High thermal mass reducing HVAC operational carbon",
+      "Precision bookmatched marble lobby centerpieces",
+      "LEED Platinum certified natural stone sourcing"
+    ]
+  }
+]

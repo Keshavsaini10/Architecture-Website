@@ -1,0 +1,25 @@
+{
+  "name": "exploremore-stones",
+  "version": "1.0.0",
+  "description": "ExploreMore Stones - India's Heritage, Carved in Stone. Premium Indian marble, sandstone and granite showcase with full-stack backend.",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  },
+  "keywords": [
+    "marble",
+    "stones",
+    "granite",
+    "sandstone",
+    "indian-heritage",
+    "architecture"
+  ],
+  "author": "ExploreMore Stones",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
