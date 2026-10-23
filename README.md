@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏛️ ExploreMore Stones — India's Heritage, Carved in Stone
 
 A luxury, full-stack web application showcasing Indian natural marble, sandstone, and granite craftsmanship. Built with a responsive frontend design and an Express.js REST API backend with persistent data storage.
@@ -102,3 +103,6 @@ A luxury, full-stack web application showcasing Indian natural marble, sandstone
 | `/api/stats` | `GET` | Fetch company statistics (years, varieties, projects) |
 | `/api/inquiries` | `POST`| Submit a project quote request or sample order |
 | `/api/newsletter` | `POST`| Subscribe to newsletter updates |
+=======
+# Architecture-Website
+>>>>>>> b27ec3c666cebbc1e76e19dd1985881617eb7a4b
