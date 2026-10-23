@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const db = require('../db');
+const requireAdmin = require('../middleware/requireAdmin');
 
 // POST /api/newsletter - subscribe to newsletter
 router.post('/', (req, res) => {
@@ -30,8 +31,8 @@ router.post('/', (req, res) => {
   }
 });
 
-// GET /api/newsletter - list subscribers
-router.get('/', (req, res) => {
+// GET /api/newsletter - admin only
+router.get('/', requireAdmin, (req, res) => {
   try {
     const list = db.getSubscribers();
     res.json({

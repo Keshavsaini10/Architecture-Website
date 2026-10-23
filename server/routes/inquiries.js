@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const db = require('../db');
+const requireAdmin = require('../middleware/requireAdmin');
 
 // POST /api/inquiries - Submit an inquiry, quote request, or sample box order
 router.post('/', (req, res) => {
@@ -9,6 +10,14 @@ router.post('/', (req, res) => {
     
     if (!name || !email) {
       return res.status(400).json({ success: false, message: 'Name and email are required fields.' });
+    }
+
+    if (String(name).trim().length < 2 || String(name).trim().length > 120) {
+      return res.status(400).json({ success: false, message: 'Name must be between 2 and 120 characters.' });
+    }
+
+    if (message && String(message).length > 4000) {
+      return res.status(400).json({ success: false, message: 'Message is too long.' });
     }
 
     // Basic email validation
@@ -31,15 +40,15 @@ router.post('/', (req, res) => {
     res.status(201).json({
       success: true,
       message: `Inquiry successfully submitted! Reference ID: ${inquiry.id}. A stone specialist will contact you within 24 hours.`,
-      data: inquiry
+      data: { id: inquiry.id, timestamp: inquiry.timestamp, status: inquiry.status }
     });
   } catch (error) {
     res.status(500).json({ success: false, error: error.message });
   }
 });
 
-// GET /api/inquiries - Get all submitted inquiries (for admin review)
-router.get('/', (req, res) => {
+// GET /api/inquiries - admin only
+router.get('/', requireAdmin, (req, res) => {
   try {
     const inquiries = db.getInquiries();
     res.json({
